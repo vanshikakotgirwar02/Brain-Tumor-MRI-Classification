@@ -1,5 +1,9 @@
 # 🧠 NeuroVision AI — Brain Tumor MRI Image Classification
 
+## 🚀 Live Demo
+
+👉 [Try NeuroVision AI](https://brain-tumor-mri-classification-tgyvsvpfauxbkw42omci68.streamlit.app/)
+
 An AI-powered deep learning project for classifying brain MRI images into four categories using a Custom Convolutional Neural Network (CNN) and MobileNetV2 transfer learning.
 
 > ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. It is not a medical diagnostic system and should not replace evaluation by a qualified medical professional.
