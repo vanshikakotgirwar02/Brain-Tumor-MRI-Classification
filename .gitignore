@@ -26,6 +26,7 @@ data/
 # ============================================================
 
 models/*.keras
+!models/custom_cnn.keras
 models/*.h5
 models/*.hdf5
 models/*.pkl
